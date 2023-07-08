@@ -1,4 +1,4 @@
-### Garbage-Classifier-Using-CNN-with-PyTorch
+### Garbage-Classifier-using-CNN-with-PyTorch
 
 <Note: Run this project in Google Collaboratory since it uses google drive>
 
