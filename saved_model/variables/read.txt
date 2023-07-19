@@ -1,0 +1,5 @@
+Link to large file (github won't let me commit it directly):
+
+https://drive.google.com/file/d/1dubxlgKOk9jtde5XWV9H7zlgCoiaoNkU/view?usp=sharing
+
+download and paste in this folder (variables), in order to use the saved-model
