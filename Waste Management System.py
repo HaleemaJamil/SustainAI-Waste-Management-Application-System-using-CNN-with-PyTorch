@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1jo4fcgutTAsdMNoetYzZ-6-f8iQ9-w-w
 
 **AI PROJECT: Garbage Classification using CNN**
-
+  
 **Group Members:**
 
 1. 20L-1184 Section 6A
