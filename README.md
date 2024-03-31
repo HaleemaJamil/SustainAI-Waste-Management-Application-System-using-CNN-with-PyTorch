@@ -1,5 +1,6 @@
 ### Garbage-Classifier-using-CNN-with-PyTorch
-
+This repository is out of date. Please access the following repo containing updated data and model:
+https://github.com/Amin-AQ/Data-Science-Project
 <Note: Run this project in Google Collaboratory since it uses google drive>
 
 **GOOGLE COLAB LINK**: https://colab.research.google.com/drive/1EPTQe7VSJ1NdFYP3rknRpvxjnGsXL_sp
