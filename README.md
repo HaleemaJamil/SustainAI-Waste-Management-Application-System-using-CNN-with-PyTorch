@@ -5,6 +5,7 @@
 **GOOGLE COLAB LINK**: https://colab.research.google.com/drive/1EPTQe7VSJ1NdFYP3rknRpvxjnGsXL_sp
 
 **DATASET LINK**: https://drive.google.com/drive/folders/1GDSE1CVpuOUZXx9LyQ2kCfESix40-1Ul?usp=sharing
+
 We gathered a dataset containing close to 3000 total images of plastic, metal and paper waste. To use it, you need to create a shortcut of the "Final_Dataset" folder to "My Drive". Upon running the code, you will be asked to choose your google account whose Drive will be mounted.
 
 **Data Pre-Processing:**
